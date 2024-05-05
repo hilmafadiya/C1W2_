@@ -1,4 +1,4 @@
-import {FMnistData} from './fashion-data.js';
+import {FMnistData} from 'https://raw.githubusercontent.com/hilmafadiya/C1W2_/main/fashion-data.js';
 var canvas, ctx, saveButton, clearButton;
 var pos = {x:0, y:0};
 var rawImage;
